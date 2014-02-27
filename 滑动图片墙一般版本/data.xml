@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 照片大小会以400X320呈现 ,为了显示效果，图片不能少于6张-->
+<root mainTitle="名车博览">
+<menu imageName="宝马"    imageUrl="images/1.jpg" />
+<menu imageName="保时捷"  imageUrl="images/2.jpg"/>
+<menu imageName="宾利"    imageUrl="images/3.jpg"/>
+<menu imageName="布加迪"  imageUrl="images/4.jpg"/>
+<menu imageName="法拉利"  imageUrl="images/5.jpg"/>
+<menu imageName="捷豹"    imageUrl="images/6.jpg"/>
+<menu imageName="兰博基尼"    imageUrl="images/7.jpg"/>
+<menu imageName="劳斯莱斯"    imageUrl="images/8.jpg"/>
+<menu imageName="林肯"    imageUrl="images/9.jpg"/>
+<menu imageName="陆虎"    imageUrl="images/10.jpg"/>
+</root>
